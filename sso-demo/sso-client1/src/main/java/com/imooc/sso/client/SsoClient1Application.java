@@ -21,6 +21,7 @@ public class SsoClient1Application {
 	}
 	
 	public static void main(String[] args) {
+		System.out.println("ssss");
 		SpringApplication.run(SsoClient1Application.class, args);
 	}
 }
