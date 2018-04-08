@@ -7,7 +7,7 @@
 	<packaging>pom</packaging>
 	
 	<properties>
-		<imooc.security.version>0.0.1-SNAPSHOT</imooc.security.version>
+		<imooc.security.version>1.0.0-SNAPSHOT</imooc.security.version>
 	</properties>
 	
 	<dependencyManagement>
@@ -50,7 +50,5 @@
 		<module>sso-server</module>
 		<module>sso-client1</module>
 		<module>sso-client2</module>
-		<module>com.imooc.sso.app</module>
-		<module>sso-app</module>
 	</modules>
 </project>
